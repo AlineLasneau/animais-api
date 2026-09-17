@@ -116,3 +116,4 @@ http://localhost:8080/animais
 ## Autora
 
 **Aline Julia Lasneau**
+**Keizi Karin Santos Modesto **
